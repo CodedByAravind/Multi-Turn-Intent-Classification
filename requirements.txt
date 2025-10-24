@@ -1,0 +1,6 @@
+transformers
+torch
+pandas
+tqdm
+huggingface_hub
+google-colab
