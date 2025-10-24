@@ -1,0 +1,27 @@
+[
+  {
+    "conversation_id": "conv_001",
+    "predicted_intent": "Book Appointment",
+    "rationale": "The user is inquiring about viewing properties."
+  },
+  {
+    "conversation_id": "conv_002",
+    "predicted_intent": "Product Inquiry",
+    "rationale": "User is asking about parking availability which is a feature of the apartment."
+  },
+  {
+    "conversation_id": "conv_003",
+    "predicted_intent": "Pricing Negotiation",
+    "rationale": "The user is asking for a price reduction."
+  },
+  {
+    "conversation_id": "conv_004",
+    "predicted_intent": "Support Request",
+    "rationale": "The user is experiencing a problem with accessing property documents, suggesting a support request."
+  },
+  {
+    "conversation_id": "conv_005",
+    "predicted_intent": "Follow-Up",
+    "rationale": "The user expressed interest but did not make a decision yet."
+  }
+]

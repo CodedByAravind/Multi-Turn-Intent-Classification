@@ -1,0 +1,95 @@
+[
+  {
+    "conversation_id": "conv_001",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "Hi, I'm looking for a 2BHK in Dubai"
+      },
+      {
+        "sender": "agent",
+        "text": "Great! Any specific area in mind?"
+      },
+      {
+        "sender": "user",
+        "text": "Preferably Marina or JVC"
+      },
+      {
+        "sender": "agent",
+        "text": "What's your budget?"
+      },
+      {
+        "sender": "user",
+        "text": "Max 120k. Can we do a site visit this week?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_002",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "Can you tell me about the facilities in the JVC apartment?"
+      },
+      {
+        "sender": "agent",
+        "text": "Yes, it has a gym, pool, and clubhouse"
+      },
+      {
+        "sender": "user",
+        "text": "What about parking availability?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_003",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "Is there any flexibility on the 120k rent?"
+      },
+      {
+        "sender": "agent",
+        "text": "Maybe we can offer a small discount."
+      },
+      {
+        "sender": "user",
+        "text": "Can you make it 115k?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_004",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "I’m having trouble accessing the property documents on your website."
+      },
+      {
+        "sender": "agent",
+        "text": "Let me help you with that."
+      },
+      {
+        "sender": "user",
+        "text": "Thanks, I can’t download the PDF file."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_005",
+    "messages": [
+      {
+        "sender": "user",
+        "text": "Hi, I wanted to check if the apartment we discussed last week is still available."
+      },
+      {
+        "sender": "agent",
+        "text": "Yes, it is still available."
+      },
+      {
+        "sender": "user",
+        "text": "Great, I’ll think about it and get back to you."
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+conversation_id,predicted_intent,rationale
+conv_001,Book Appointment,The user is inquiring about viewing properties.
+conv_002,Product Inquiry,User is asking about parking availability which is a feature of the apartment.
+conv_003,Pricing Negotiation,The user is asking for a price reduction.
+conv_004,Support Request,"The user is experiencing a problem with accessing property documents, suggesting a support request."
+conv_005,Follow-Up,The user expressed interest but did not make a decision yet.
